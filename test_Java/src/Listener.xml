@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="for exel">
+	<listeners>
+		<listener class-name="lstnr.ListenerInSelenium" />
+		
+	</listeners>
+
+	<test name="redbus seat check">
+		<classes>
+			<class name="lstnr.CaptureScreenshot" />
+			
+			
+		</classes>
+
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
+
+<!--  <test thread-count="1"  -->
