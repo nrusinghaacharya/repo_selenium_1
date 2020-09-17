@@ -4,11 +4,12 @@
    <name>All Test Cases</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <mailRecipient></mailRecipient>
+   <mailRecipient>nrusinghanath@myaccounts.in;</mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>df88b384-4db8-4c82-b255-0afa0fd22006</testSuiteGuid>
    <testCaseLink>
       <guid>28a02fc5-00a1-40cf-9a4b-ad8847be59bb</guid>
@@ -90,5 +91,185 @@
          <value></value>
          <variableId>12db7b5a-6bfc-4927-83be-322afbf82b91</variableId>
       </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0bb0d8c1-7a2e-4b72-b956-c3d2e4756d02</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Calculator tests/Addition</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0ccef54f-aa9d-42ca-b08a-95da754c463e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Calculator tests/Multiplication</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>74ed1905-9006-4a34-a20a-8a6123f74291</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Create a new user</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0de4fa76-1864-4d5e-aa8a-70ad8f4f4342</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>086a27a9-05ed-4e07-8465-e17bddfdeac1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>311c2780-afd0-4352-a23f-fc00c2c42271</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>bcddbada-1d5e-422c-b810-55f7c48bb931</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3b3cb3f6-19ff-4f44-ae2c-a1c680bd3044</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8be6c236-db5a-4361-8c60-817d129c6871</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Find user by ID</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c01f9799-0b50-4449-9381-55ef5499f42a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c286e457-b6f1-4251-b3ff-4b8732ca5dd9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>dc24082d-c647-404f-aad4-147039c3b351</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c61e367d-e8d2-440b-8b62-b1afb19bf7e3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>12db7b5a-6bfc-4927-83be-322afbf82b91</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b47ea707-a63a-4d99-a4dd-8c5ad399cd00</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Get post put/TestHTTPMethods</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>dad3cf1f-205b-4d32-bd35-8a555c8b405e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Calculator tests/Addition</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>13cd0896-ed0e-482c-8f15-fffd2a29153c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Calculator tests/Multiplication</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>be5b3a01-b388-4a31-94d1-2fd5f0d27728</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Create a new user</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0de4fa76-1864-4d5e-aa8a-70ad8f4f4342</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>086a27a9-05ed-4e07-8465-e17bddfdeac1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>311c2780-afd0-4352-a23f-fc00c2c42271</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>bcddbada-1d5e-422c-b810-55f7c48bb931</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3b3cb3f6-19ff-4f44-ae2c-a1c680bd3044</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>90721b1c-fd66-4d37-8300-1ccaa87516ce</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Find user by ID</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c01f9799-0b50-4449-9381-55ef5499f42a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c286e457-b6f1-4251-b3ff-4b8732ca5dd9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>dc24082d-c647-404f-aad4-147039c3b351</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c61e367d-e8d2-440b-8b62-b1afb19bf7e3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>12db7b5a-6bfc-4927-83be-322afbf82b91</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>edbad494-267d-4687-9e06-e9ca69de858c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Get post put/TestHTTPMethods</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
